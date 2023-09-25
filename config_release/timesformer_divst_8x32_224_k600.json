@@ -1,0 +1,14 @@
+{
+    "cls": "TimeSformer",
+    "cls2": "MViTv2",
+    "patch_size": 16,
+    "attn_drop_rate": 0,
+    "drop_rate": 0,
+    "drop_path_rate": 0.1,
+    "maxpool_kernel_size": 2,
+    "use_maxpooling": false,
+    "gradient_checkpointing": false,
+    "select_layers": [6, 12],
+    "select_ratio": 0.72
+}
+
