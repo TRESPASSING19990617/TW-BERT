@@ -2,6 +2,8 @@
 
 ## Learning Trajectory-Word Alignments for Video-Language Tasks [[Paper](https://arxiv.org/pdf/2301.01953)]
 
+<img src="TW-BERT.png" width="500">
+
 Official PyTorch code for TW-BERT. This repository supports pre-training as well as finetuning on 
 - Text-Video Retrieval on MSRVTT, DiDeMo, ActivityNet Caption and LSMDC.
 - Video Question Anwsering on MSRVTT and MSVD.
