@@ -5,7 +5,7 @@
 <img src="TW-BERT.png" width="500">
 
 Official PyTorch code for TW-BERT. This repository supports pre-training as well as finetuning on 
-- Text-Video Retrieval on MSRVTT, DiDeMo, ActivityNet Caption and LSMDC.
+- Text-Video Retrieval on MSRVTT, DiDeMo, ActivityNet Caption and LSMDC. 
 - Video Question Anwsering on MSRVTT and MSVD.
 
 ## Data Preparation 
